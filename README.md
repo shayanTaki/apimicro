@@ -17,7 +17,7 @@
 *   [djangorestframework-simplejwt](https://github.com/darthvader42/django-rest-framework-simplejwt)
 *   [Docker](https://www.docker.com/)
 *   [Docker Compose](https://docs.docker.com/compose/)
-*   [PostgreSQL](https://www.postgresql.org/)
+*   
 
 ## پیش‌نیازها
 
